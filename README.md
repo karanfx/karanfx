@@ -35,15 +35,8 @@ Throughout my career, I have collaborated with cross-functional teams and have b
 
 I am passionate about what I do and am always looking for new challenges and opportunities to grow. If you are looking for a dedicated and skilled FX artist to join your team, please do not hesitate to reach out to me.
 
-### What You'll Find Here
-
-In this repository and across my GitHub profile, you'll discover:
-
-- **Pipeline Tools:** Tools and scripts designed to enhance software integration, streamline workflows, and optimize data management.
-- **Technical Challenges:** Solutions to common technical challenges faced in the visual effects industry.
-- **Automation:** Scripts and tools that automate repetitive tasks, improving efficiency.
-- **Collaboration:** My commitment to fostering collaboration between artists and technical teams.
-
+---
+<!-- [![Image Sequence Convertor](https://github-readme-stats.vercel.app/api?username=karanfx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/karanfx/) -->
 
 <h2>🧑‍💻 Skills</h2>
 
@@ -65,8 +58,25 @@ In this repository and across my GitHub profile, you'll discover:
     <a href="https://www.unrealengine.com/en-US"><img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal Engine-43853d?style=flat-square&color=000000&logo=Unreal Engine&logoColor=white" /></a>
 </p>
 
----
+<h2>🔭 Personal Projects</h2>
+<h3><img src="https://gist.githubusercontent.com/ColinKennedy/28d2b8adb975320acffae1e032b43478/raw/1347e26257f604939eb425cfa3291cc832a077bb/usd.svg" height=20> OpenCV</h3>
 
+[![Image Sequence Convertor](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=opencv_seq_to_video_converter)](https://github.com/karanfx/opencv_seq_to_video_converter)
+
+
+
+### What You'll Find Here
+
+In this repository and across my GitHub profile, you'll discover:
+
+- **Pipeline Tools:** Tools and scripts designed to enhance software integration, streamline workflows, and optimize data management.
+- **Technical Challenges:** Solutions to common technical challenges faced in the visual effects industry.
+- **Automation:** Scripts and tools that automate repetitive tasks, improving efficiency.
+- **Collaboration:** My commitment to fostering collaboration between artists and technical teams.
+
+
+---
+- 🔭 I’m currently working on Glacier Pipeline Tools
 - 🐍 Python developer 
 - 🎬 In movies, advertising, and gaming since 2016
 - 🌱 I'm learning `USD(Pixar's Universal Scene Description)`, `APIs`, and `Unreal`
