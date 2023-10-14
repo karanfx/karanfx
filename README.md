@@ -1,3 +1,8 @@
+![Hello](https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?fit=crop&w=1200&h=250&q=200&crop=top)
+
+[![Followers](https://img.shields.io/github/followers/karanfx?style=social)](https://github.com/karanfx/)
+[![Stars](https://img.shields.io/github/stars/karanfx?style=social)](https://github.com/karanfx/)
+
 ### Hi there 👋
 
 <!--
@@ -59,9 +64,12 @@ I am passionate about what I do and am always looking for new challenges and opp
 </p>
 
 <h2>🔭 Personal Projects</h2>
-<h3><img src="https://gist.githubusercontent.com/ColinKennedy/28d2b8adb975320acffae1e032b43478/raw/1347e26257f604939eb425cfa3291cc832a077bb/usd.svg" height=20> OpenCV</h3>
+<!-- <h3><img src="https://gist.githubusercontent.com/ColinKennedy/28d2b8adb975320acffae1e032b43478/raw/1347e26257f604939eb425cfa3291cc832a077bb/usd.svg" height=20> OpenCV</h3> -->
+
+[![Glacier Pipeline Tools](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=Glacier_Pipeline_Tools)](https://github.com/karanfx/Glacier_Pipeline_Tools)
 
 [![Image Sequence Convertor](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=opencv_seq_to_video_converter)](https://github.com/karanfx/opencv_seq_to_video_converter)
+
 
 
 
@@ -76,7 +84,5 @@ In this repository and across my GitHub profile, you'll discover:
 
 
 ---
-- 🔭 I’m currently working on Glacier Pipeline Tools
-- 🐍 Python developer 
-- 🎬 In movies, advertising, and gaming since 2016
-- 🌱 I'm learning `USD(Pixar's Universal Scene Description)`, `APIs`, and `Unreal`
+- 🔭 I’m currently working on `Glacier Pipeline Tools`
+- 🌱 I'm learning `USD(Pixar's Universal Scene Description)`, `APIs` and `Machine Learning and AI`.
