@@ -110,7 +110,6 @@ alt="Glacier tools demo" width="240" height="180" border="5" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lIOpYki8xyM
 " target="_blank"><img src="http://img.youtube.com/vi/lIOpYki8xyM/0.jpg" 
 alt="Glacier tools demo" width="240" height="180" border="5" /></a>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=E5xEySDjwvE
 " target="_blank"><img src="http://img.youtube.com/vi/E5xEySDjwvE/0.jpg" 
 alt="Glacier tools demo" width="240" height="180" border="5" /></a>
