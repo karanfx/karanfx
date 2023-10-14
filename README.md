@@ -1,5 +1,4 @@
-![Hello](https://unsplash.com/photos/a-black-and-white-photo-of-a-rock-formation-3OpOV8ntLj4?fit=crop&w=1200&h=250&q=200&crop=top)
- <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' height=200>
+<img src='https://github.com/karanfx/karanfx/blob/33fc230f519a5a3c3d2bcbf0fb54d4dc343d9884/glacier_sg_thumbnail_03.jpeg' height=200>
 
 [![Followers](https://img.shields.io/github/followers/karanfx?style=social)](https://github.com/karanfx/)
 [![Stars](https://img.shields.io/github/stars/karanfx?style=social)](https://github.com/karanfx/)
