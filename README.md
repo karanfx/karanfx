@@ -1,4 +1,5 @@
 ![Hello](https://unsplash.com/photos/a-black-and-white-photo-of-a-rock-formation-3OpOV8ntLj4?fit=crop&w=1200&h=250&q=200&crop=top)
+ <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' height=200>
 
 [![Followers](https://img.shields.io/github/followers/karanfx?style=social)](https://github.com/karanfx/)
 [![Stars](https://img.shields.io/github/stars/karanfx?style=social)](https://github.com/karanfx/)
@@ -26,6 +27,10 @@ Here are some ideas to get you started:
 <a href='https://www.linkedin.com/in/karanmirajkar51/'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' height=20>
 </a>
+<a href='https://www.imdb.com/name/nm14840976/?ref_=ext_shr_lnk'>
+    <img src='https://img.shields.io/badge/IMDB-yellow?logo=IMDB&logoColor=black&style=for-the-badge' height=20>
+</a>
+
 
 <h2>About Me</h2>
 
