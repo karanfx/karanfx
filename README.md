@@ -1,4 +1,5 @@
-![Hello](https://github.com/karanfx/karanfx/blob/main/glacier_sg_thumbnail_03.jpeg)
+![Hello](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/dJoeeRZbOlTP171J/glacier_tools_banner_xlarge-m2WBZVqXx3fWX6Pl.png)
+
 
 
 [![Followers](https://img.shields.io/github/followers/karanfx?style=social)](https://github.com/karanfx/)
@@ -57,7 +58,13 @@ I am passionate about what I do and am always looking for new challenges and opp
     <a href="https://www.pixar.com/usd><img alt="USD" src="https://img.shields.io/badge/-USD-00FFFF?style=flat-square&logo=USD&color=088389" /></a>
     <a href="https://cplusplus.com/"><img alt="C++" src="https://img.shields.io/badge/C++-8DD6F9?style=flat-square&logo=c%2B%2B&logoColor=gray" /></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+
 </p>
+
+[![FX Simulation](https://img.shields.io/badge/FX_Simulations-orange)](https://www.karanmirajkar.com/about/)
+[![Crowd Simulation](https://img.shields.io/badge/Crowd_Simulations-orange)](https://www.karanmirajkar.com/about/)
+
+
 
 <h2>🎬 Softwares</h2>
 
@@ -76,7 +83,26 @@ I am passionate about what I do and am always looking for new challenges and opp
 [![Image Sequence Convertor](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=opencv_seq_to_video_converter)](https://github.com/karanfx/opencv_seq_to_video_converter)
 
 
+<h2>🔭 Projects Demos</h2>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=46lxPxqMsCQ
+" target="_blank"><img src="http://img.youtube.com/vi/46lxPxqMsCQ/0.jpg" 
+alt="Glacier shotgun tools demo" width="240" height="180" border="5" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xZ9CERVqZrU
+" target="_blank"><img src="http://img.youtube.com/vi/xZ9CERVqZrU/0.jpg" 
+alt="Glacier tools demo" width="240" height="180" border="5" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wKVq7e5qRC8
+" target="_blank"><img src="http://img.youtube.com/vi/wKVq7e5qRC8/0.jpg" 
+alt="Glacier tools demo" width="240" height="180" border="5" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lIOpYki8xyM
+" target="_blank"><img src="http://img.youtube.com/vi/lIOpYki8xyM/0.jpg" 
+alt="Glacier tools demo" width="240" height="180" border="5" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=E5xEySDjwvE
+" target="_blank"><img src="http://img.youtube.com/vi/E5xEySDjwvE/0.jpg" 
+alt="Glacier tools demo" width="240" height="180" border="5" /></a>
+
+---
 
 ### What You'll Find Here
 
