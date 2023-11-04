@@ -87,6 +87,13 @@ I am passionate about what I do and am always looking for new challenges and opp
 
 </p>
 
+<h2>🎬 Demoreel</h2>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=g5bOdtcngwA
+" target="_blank"><img src="http://img.youtube.com/vi/46lxPxqMsCQ/0.jpg" 
+alt="Pipeline TD Demoreel - Karan Mirajkar" width="480" height="360" border="5" /></a>
+
+
 <h2>🔭 Personal Projects</h2>
 <!-- <h3><img src="https://gist.githubusercontent.com/ColinKennedy/28d2b8adb975320acffae1e032b43478/raw/1347e26257f604939eb425cfa3291cc832a077bb/usd.svg" height=20> OpenCV</h3> -->
 
