@@ -1,5 +1,4 @@
-![Hello](https://assets.zyrosite.com/dJoeeRZbOlTP171J/glacier_tools_thhumbnail-YX4XGRqGvvu0lPaG.png)
-
+![Hello](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=2880,fit=crop/dJoeeRZbOlTP171J/glacier_tools_yt_banner_github_header-Yle6DjNQ4vc5p9r5.png)
 
 
 
@@ -91,7 +90,7 @@ I am passionate about what I do and am always looking for new challenges and opp
 <h2>🎬 Demoreel</h2>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=g5bOdtcngwA
-" target="_blank"><img src="http://img.youtube.com/vi/46lxPxqMsCQ/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/g5bOdtcngwA/0.jpg" 
 alt="Pipeline TD Demoreel - Karan Mirajkar" width="480" height="360" border="5" /></a>
 
 
@@ -100,7 +99,7 @@ alt="Pipeline TD Demoreel - Karan Mirajkar" width="480" height="360" border="5" 
 
 [![Glacier Pipeline Tools](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=Glacier_Pipeline_Tools)](https://github.com/karanfx/Glacier_Pipeline_Tools)
 [![Glacier Shotgun API Tools](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=shotgun_api_pipeline)](https://github.com/karanfx/shotgun_api_pipeline)
-[![Glacier Houdini Tools](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=shotgun_api_pipeline)](https://github.com/karanfx/shotgun_api_pipeline)
+[![Glacier Houdini Tools](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=glacier_houdini_tools)](https://github.com/karanfx/glacier_houdini_tools)
 [![Image Sequence Convertor](https://github-readme-stats.vercel.app/api/pin/?username=karanfx&repo=opencv_seq_to_video_converter)](https://github.com/karanfx/opencv_seq_to_video_converter)
 
 
